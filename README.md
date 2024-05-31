@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Crop Recommendation System
 
 A crop recommendation system designed to assist farmers in choosing suitable crops and pesticides. This project leverages modern web technologies and machine learning algorithms to provide precise recommendations, ensuring an enhanced user experience for farmers.
@@ -83,7 +82,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or suggestions, please contact [johnprabu0702@gmail.com](mailto:johnprabu0702@gmail.com).
 
 ---
-=======
-# Soil-Minds
-A crop recommendation system designed to assist farmers in choosing suitable crops and pesticides. This project leverages modern web technologies and machine learning algorithms to provide precise recommendations, ensuring an enhanced user experience for farmers.
->>>>>>> origin/main
